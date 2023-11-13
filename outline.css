@@ -1,0 +1,24 @@
+.outline-content {
+  width: 160px;
+  line-height: 24px;
+}
+#header {
+  font-size: 12px;
+  font-weight: bold;
+  color: DimGray;
+}
+
+.toc-item-link {
+  padding: 3px;
+  font-size: 10pt;
+  color: Black;
+  font-weight: normal;
+  text-decoration: none;
+
+}
+
+.toc-item-link:hover {
+  color: Blue;
+  font-weight: bold;
+  text-decoration: underline;
+}
